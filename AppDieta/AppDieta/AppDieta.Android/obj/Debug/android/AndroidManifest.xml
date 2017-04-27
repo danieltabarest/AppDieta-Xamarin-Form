@@ -4,7 +4,7 @@
   <uses-sdk android:minSdkVersion="15" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-  <application android:label="@string/app_name" android:icon="@drawable/logo1" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+  <application android:label="Dietdial" android:icon="@drawable/logo1" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
     <activity android:configChanges="orientation|screenSize" android:label="@string/app_name" android:theme="@style/MyTheme" android:name="md51f8a0fdba83f984ee4c6db7c883162f2.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
