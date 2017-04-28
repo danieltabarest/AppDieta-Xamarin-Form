@@ -24,9 +24,16 @@ namespace AppDieta
             });
             masterPageItems.Add(new MasterPageItem
             {
-                Title = "Acerca",
+                Title = "Acerca de la app",
                 //IconSource = "contacts.png",
                 TargetType = typeof(Acerca)
+            });
+
+            masterPageItems.Add(new MasterPageItem
+            {
+                Title = "Quienes somos",
+                //IconSource = "contacts.png",
+                TargetType = typeof(QuienesSomos)
             });
 
             listView.ItemsSource = masterPageItems;

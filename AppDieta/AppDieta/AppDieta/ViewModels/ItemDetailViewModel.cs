@@ -14,6 +14,9 @@ namespace AppDieta.ViewModels
         public Medicamento Medicamento { get; set; }
         public Pregunta Pregunta { get; set; }
         public Receta Receta { get; set; }
+        public RecetaDetails RecetaDetails { get; set; }
+
+        public ConsejoDetalle ConsejoDetalle { get; set; }
 
         public ItemDetailViewModel(Item item = null)
         {
@@ -26,6 +29,21 @@ namespace AppDieta.ViewModels
             this.Item = new Item { Text = item.Text, Description = item.Description };
             Title = item.Text;
             Receta = item;
+        }
+
+        public ItemDetailViewModel(RecetaDetails item = null)
+        {
+            this.Item = new Item { Text = item.Text, Description = item.Description };
+            Title = item.Text;
+            RecetaDetails = item;
+        }
+
+
+        public ItemDetailViewModel(ConsejoDetalle item = null)
+        {
+            this.Item = new Item { Text = item.Text, Description = item.Description };
+            Title = item.Text;
+            ConsejoDetalle = item;
         }
         public ItemDetailViewModel(Alimento item = null)
         {

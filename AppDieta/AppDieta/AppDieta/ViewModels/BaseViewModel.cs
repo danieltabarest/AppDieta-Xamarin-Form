@@ -22,6 +22,9 @@ namespace AppDieta.ViewModels
         public IDataStore<Pregunta> DataStorePregunta => DependencyService.Get<IDataStore<Pregunta>>();
         public IDataStore<Receta> DataStoreReceta => DependencyService.Get<IDataStore<Receta>>();
 
+        public IDataStore<RecetaDetails> DataStoreRecetaDetalle => DependencyService.Get<IDataStore<RecetaDetails>>();
+        public IDataStore<ConsejoDetalle> DataStoreConsejoDetalle => DependencyService.Get<IDataStore<ConsejoDetalle>>();
+
         bool isBusy = false;
         public bool IsBusy
         {

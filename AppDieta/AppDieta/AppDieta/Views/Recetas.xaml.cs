@@ -23,7 +23,7 @@ namespace AppDieta
             if (item == null)
                 return;
 
-            await Navigation.PushAsync(new ItemDetailPage(new ItemDetailViewModel(item)));
+            await Navigation.PushAsync(new RecetasDetails(new RecetaDetailsViewModel(item)));
 
             // Manually deselect item
             ItemsListView.SelectedItem = null;

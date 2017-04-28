@@ -66,7 +66,14 @@ C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\obj
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\obj\Debug\AppDieta.Views.NewPreguntaPage.xaml.g.cs
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\obj\Debug\AppDieta.dll
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\obj\Debug\AppDieta.pdb
-C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\obj\Debug\AppDieta.dll.mdb
-C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\bin\Debug\AppDieta.dll.mdb
+C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\bin\Debug\Xamarin.iOS.dll
+C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\bin\Debug\System.dll
+C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\bin\Debug\System.Core.dll
+C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\bin\Debug\System.Xml.dll
+C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\bin\Debug\Mono.Dynamic.Interpreter.dll
+C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\bin\Debug\Xamarin.iOS.xml
+C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\obj\Debug\AppDieta.Views.QuienesSomos.xaml.g.cs
+C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\obj\Debug\AppDieta.Views.RecetasDetails.xaml.g.cs
+C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\obj\Debug\AppDieta.Views.ConsejoDetails.xaml.g.cs
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\obj\Debug\AppDieta.dll.mdb
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\bin\Debug\AppDieta.dll.mdb

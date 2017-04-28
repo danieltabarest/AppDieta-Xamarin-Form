@@ -21,5 +21,7 @@ namespace AppDieta.Views
 
             BindingContext = this.viewModel = viewModel;
         }
+
+
     }
 }

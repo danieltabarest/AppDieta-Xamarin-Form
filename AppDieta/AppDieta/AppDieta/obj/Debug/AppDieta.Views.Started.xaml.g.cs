@@ -11,12 +11,37 @@
 namespace AppDieta {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Admin\\Documents\\GitHub\\AppDieta\\AppDieta\\AppDieta\\Views\\Started.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Admin\\Source\\Repos\\AppDieta-Xamarin-Form\\AppDieta\\AppDieta\\AppDieta\\View" +
+        "s\\Started.xaml")]
     public partial class Started : global::Xamarin.Forms.TabbedPage {
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::AppDieta.Alimentos ItemsAlimentos;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::AppDieta.Consejos ItemsConsejos;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::AppDieta.Recetas ItemsRecetas;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::AppDieta.Cuidado ItemsCuidado;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::AppDieta.Medicamentos ItemsMedicamentos;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::AppDieta.Preguntas ItemsPreguntas;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Started));
+            ItemsAlimentos = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::AppDieta.Alimentos>(this, "ItemsAlimentos");
+            ItemsConsejos = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::AppDieta.Consejos>(this, "ItemsConsejos");
+            ItemsRecetas = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::AppDieta.Recetas>(this, "ItemsRecetas");
+            ItemsCuidado = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::AppDieta.Cuidado>(this, "ItemsCuidado");
+            ItemsMedicamentos = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::AppDieta.Medicamentos>(this, "ItemsMedicamentos");
+            ItemsPreguntas = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::AppDieta.Preguntas>(this, "ItemsPreguntas");
         }
     }
 }

@@ -31,6 +31,13 @@ C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\obj
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\obj\Release\AppDieta.Views.NewPreguntaPage.xaml.g.cs
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\obj\Release\AppDieta.dll
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\obj\Release\AppDieta.pdb
+C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\obj\Release\AppDieta.Views.QuienesSomos.xaml.g.cs
+C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\bin\Release\Xamarin.iOS.dll
+C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\bin\Release\System.dll
+C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\bin\Release\System.Core.dll
+C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\bin\Release\System.Xml.dll
+C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\bin\Release\Mono.Dynamic.Interpreter.dll
+C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\bin\Release\Xamarin.iOS.xml
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\obj\Release\AppDieta.dll.mdb
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\bin\Release\AppDieta.dll.mdb
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\obj\Release\AppDieta.dll.mdb
