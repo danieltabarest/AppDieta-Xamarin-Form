@@ -157,6 +157,7 @@ C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta.And
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta.Android\obj\Debug\res\drawable\ic_swap_calls_black_18dp.png
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta.Android\obj\Debug\res\drawable\ic_compare_arrows_black_18dp.png
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta.Android\obj\Debug\res\drawable\logo1.png
+C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta.Android\obj\Debug\res\drawable\alimentos.jpg
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta.Android\obj\Debug\R.cs.flag
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta.Android\obj\Debug\uploadflags.txt
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta.Android\bin\Debug\Dietdial.dll.mdb

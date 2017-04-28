@@ -13,18 +13,18 @@ namespace AppDieta
         {
             InitializeComponent();
 
-
-            //if (ItemsAlimentos != null)
-            //{
+            
 
 
-            //    var txtFont = new UITextAttributes()
-            //    {
-            //        Font = UIFont.SystemFontOfSize(15)
-            //    };
-            //    ItemsAlimentos.SetBinding(ContentPage.TitleProperty, "Font");
+            //this.Children.Add(new Alimentos());
+            //this.Children.Add(new Consejos());
+            //this.Children.Add(new Recetas());
 
-            //}
+            //this.Children.Add(new Cuidado());
+            //this.Children.Add(new Medicamentos());
+            //this.Children.Add(new Preguntas());
+
+
 
         }
 

@@ -18,6 +18,7 @@ namespace AppDieta
 
         async void OnItemSelected(object sender, SelectedItemChangedEventArgs args)
         {
+            
             var item = args.SelectedItem as Cuidados;
             if (item == null)
                 return;

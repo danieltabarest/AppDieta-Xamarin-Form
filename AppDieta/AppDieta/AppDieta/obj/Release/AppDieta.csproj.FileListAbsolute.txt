@@ -38,6 +38,10 @@ C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\bin
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\bin\Release\System.Xml.dll
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\bin\Release\Mono.Dynamic.Interpreter.dll
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\bin\Release\Xamarin.iOS.xml
+C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\bin\Release\Mono.Android.dll
+C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\bin\Release\Mono.Android.xml
+C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\obj\Release\AppDieta.Views.RecetasDetails.xaml.g.cs
+C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\obj\Release\AppDieta.Views.ConsejoDetails.xaml.g.cs
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\obj\Release\AppDieta.dll.mdb
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\bin\Release\AppDieta.dll.mdb
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta\obj\Release\AppDieta.dll.mdb

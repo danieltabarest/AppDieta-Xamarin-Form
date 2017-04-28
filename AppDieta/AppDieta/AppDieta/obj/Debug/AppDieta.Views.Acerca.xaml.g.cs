@@ -11,7 +11,8 @@
 namespace AppDieta {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Admin\\Documents\\GitHub\\AppDieta\\AppDieta\\AppDieta\\Views\\Acerca.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Admin\\Source\\Repos\\AppDieta-Xamarin-Form\\AppDieta\\AppDieta\\AppDieta\\View" +
+        "s\\Acerca.xaml")]
     public partial class Acerca : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

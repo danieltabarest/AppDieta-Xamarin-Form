@@ -11,8 +11,8 @@
 namespace AppDieta {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Admin\\Documents\\GitHub\\AppDieta\\AppDieta\\AppDieta\\Views\\Medicamentos.xam" +
-        "l")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Admin\\Source\\Repos\\AppDieta-Xamarin-Form\\AppDieta\\AppDieta\\AppDieta\\View" +
+        "s\\Medicamentos.xaml")]
     public partial class Medicamentos : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

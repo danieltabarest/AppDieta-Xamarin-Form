@@ -92,7 +92,6 @@ C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta.And
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
-C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta.Android\bin\Release\Xamarin.iOS.dll
-C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta.Android\bin\Release\Xamarin.iOS.xml
+C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta.Android\obj\Release\res\drawable\alimentos.jpg
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta.Android\obj\Release\Dietdial.dll.mdb
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta.Android\bin\Release\Dietdial.dll.mdb
