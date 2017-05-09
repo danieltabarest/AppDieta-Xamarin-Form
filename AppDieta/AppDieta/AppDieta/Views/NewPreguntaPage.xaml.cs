@@ -16,8 +16,8 @@ namespace AppDieta.Views
 
             Item = new Pregunta
             {
-                Text = "Item name",
-                Description = "This is a nice description"
+                Text = "Nombre de la pregunta",
+                Description = "Descripción de la pregunta"
             };
 
             BindingContext = this;

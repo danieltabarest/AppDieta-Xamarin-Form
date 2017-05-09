@@ -35,6 +35,19 @@ namespace AppDieta
                 //IconSource = "contacts.png",
                 TargetType = typeof(QuienesSomos)
             });
+            masterPageItems.Add(new MasterPageItem
+            {
+                Title = "Twitter",
+                //IconSource = "contacts.png",
+                TargetType = typeof(TwitterPage)
+            });
+
+            masterPageItems.Add(new MasterPageItem
+            {
+                Title = "Facebook",
+                //IconSource = "contacts.png",
+                TargetType = typeof(FacebookPage)
+            });
 
             listView.ItemsSource = masterPageItems;
 		}

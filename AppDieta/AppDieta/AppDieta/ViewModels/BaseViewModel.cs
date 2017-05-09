@@ -25,6 +25,35 @@ namespace AppDieta.ViewModels
         public IDataStore<RecetaDetails> DataStoreRecetaDetalle => DependencyService.Get<IDataStore<RecetaDetails>>();
         public IDataStore<ConsejoDetalle> DataStoreConsejoDetalle => DependencyService.Get<IDataStore<ConsejoDetalle>>();
 
+
+        public const string TitlePropertyName = "Title";
+        public string Title
+        {
+            get { return title; }
+            set { SetProperty(ref title, value); }
+        }
+
+        private string subtitle = string.Empty;
+
+        public const string SubtitlePropertyName = "Subtitle";
+        public string Subtitle
+        {
+            get { return subtitle; }
+            set { SetProperty(ref subtitle, value); }
+        }
+
+        private string icon = null;
+        /// <summary>
+        /// Gets or sets the "Icon" of the viewmodel
+        /// </summary>
+        public const string IconPropertyName = "Icon";
+        public string Icon
+        {
+            get { return icon; }
+            set { SetProperty(ref icon, value); }
+        }
+
+
         bool isBusy = false;
         public bool IsBusy
         {
@@ -38,11 +67,18 @@ namespace AppDieta.ViewModels
         /// <summary>
         /// Public property to set and get the title of the item
         /// </summary>
-        public string Title
+
+        private bool canLoadMore = true;
+        /// <summary>
+        /// Gets or sets if we can load more.
+        /// </summary>
+        public const string CanLoadMorePropertyName = "CanLoadMore";
+        public bool CanLoadMore
         {
-            get { return title; }
-            set { SetProperty(ref title, value); }
+            get { return canLoadMore; }
+            set { SetProperty(ref canLoadMore, value); }
         }
+
     }
 }
 
