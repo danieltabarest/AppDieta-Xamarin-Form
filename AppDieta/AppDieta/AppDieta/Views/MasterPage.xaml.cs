@@ -19,33 +19,33 @@ namespace AppDieta
             masterPageItems.Add(new MasterPageItem
             {
                 Title = "Inicio",
-                //IconSource = "contacts.png",
+                IconSource = "ic_keyboard_capslock_black_24dp.png",
                 TargetType = typeof(Started)
             });
             masterPageItems.Add(new MasterPageItem
             {
                 Title = "Acerca de la app",
-                //IconSource = "contacts.png",
+                IconSource = "ic_smartphone_black_24dp.png",
                 TargetType = typeof(Acerca)
             });
 
             masterPageItems.Add(new MasterPageItem
             {
                 Title = "Quienes somos",
-                //IconSource = "contacts.png",
+                IconSource = "ic_description_black_24dp.png",
                 TargetType = typeof(QuienesSomos)
             });
             masterPageItems.Add(new MasterPageItem
             {
                 Title = "Twitter",
-                //IconSource = "contacts.png",
+                IconSource = "ic_account_box_black_24dp.png",
                 TargetType = typeof(TwitterPage)
             });
 
             masterPageItems.Add(new MasterPageItem
             {
                 Title = "Facebook",
-                //IconSource = "contacts.png",
+                IconSource = "ic_stars_black_18dp.png",
                 TargetType = typeof(FacebookPage)
             });
 

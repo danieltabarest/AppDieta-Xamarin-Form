@@ -83,3 +83,4 @@ C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta.And
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta.Android\obj\Debug\android\assets\System.Runtime.InteropServices.WindowsRuntime.dll
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta.Android\obj\Debug\android\assets\System.Collections.Concurrent.dll
 C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta.Android\obj\Debug\android\assets\Mono.CSharp.dll
+C:\Users\Admin\Source\Repos\AppDieta-Xamarin-Form\AppDieta\AppDieta\AppDieta.Android\obj\Debug\android\assets\Mono.Security.dll
